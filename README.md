@@ -1,2 +1,3 @@
-# auto-sizes-dev-hints
-Example page for auto-sizes Dev Hints video
+# `sizes="auto"` Dev Hints video example
+
+Example page for the `sizes="auto"` Dev Hints video
